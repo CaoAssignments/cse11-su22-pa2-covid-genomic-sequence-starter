@@ -126,7 +126,7 @@ You can use the same procedure as for [Part 1](#Part-1-CovidGenomeAnalysisjava).
 <div style="page-break-after: always"></div>
 
 ## Style
-Coding style is an important part of ensuring readability and maintainability of your code. We will grade your code style in all submitted code files according to the style guidelines. Namely, there are a few things you must have in each file/class/method:
+Coding style is an important part of ensuring readability and maintainability of your code. Namely, there are a few things you must have in each file/class/method:
 1. File headers
 2. Class headers
 3. Method headers
